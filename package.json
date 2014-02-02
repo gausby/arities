@@ -1,7 +1,7 @@
 {
     "name": "arities",
     "version": "0.0.1",
-    "description": "A way to execute functions based on the input",
+    "description": "Arities - A small function overloading framework",
     "author": "Martin Gausby <martin@gausby.dk>",
     "repository": "git@github.com:gausby/arities.git",
     "main": "lib/arities.js",
