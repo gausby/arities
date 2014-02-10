@@ -1,12 +1,12 @@
 {
     "name": "arities",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Arities - A small function overloading framework",
     "author": "Martin Gausby <martin@gausby.dk>",
     "repository": "git@github.com:gausby/arities.git",
     "main": "lib/arities.js",
     "dependencies": {
-        "pursuit": "0.2.3"
+        "pursuit": "0.3.1"
     },
     "devDependencies": {
         "grunt": "0.4.2",

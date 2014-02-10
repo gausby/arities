@@ -54,7 +54,7 @@ If a fn is defined as a string, a named function on the passed scope will be cal
 
 
 ### Catch all pattern
-An empty pursuit query will always return true, so if this is catch everything, if it is set as the last test pattern.
+An empty pursuit query will always return true. This fact can be used to create a catch-all, if it is set as the last test pattern.
 
     var myFunc = arities([
         { test: { 0: {equals: 'foo'}}, fn: function() { return 'foo'; } },
